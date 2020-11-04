@@ -28,7 +28,6 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -93,7 +92,6 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -125,10 +123,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "angular-ten-poc",
-  "cli": {
-    "analytics": "5cf353ae-ae82-4ee7-92fe-a83e2d01ba93"
-  }
+    }},
+  "defaultProject": "angular-ten-poc"
 }
