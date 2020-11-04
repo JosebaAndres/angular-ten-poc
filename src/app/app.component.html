@@ -36,6 +36,9 @@
         <mat-icon>share</mat-icon>
       </button>
     </mat-toolbar>
+    <button type="button" mat-button (click)="sidenav.toggle()">
+      Toggle sidenav
+    </button>
     <p class="mat-display-4">.mat-display-4</p>
     <p class="mat-display-3">.mat-display-3</p>
     <p class="mat-display-2">.mat-display-2</p>
@@ -61,8 +64,5 @@
     <p class="mat-small mat-caption">.mat-small, .mat-caption</p>
     <p class="mat-small">.mat-small</p>
     <p class="mat-caption">.mat-caption</p>
-    <button type="button" mat-button (click)="sidenav.toggle()">
-      Toggle sidenav
-    </button>
   </div>
 </mat-sidenav-container>
