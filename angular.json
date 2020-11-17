@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-ten-poc"
+    }
+  },
+  "defaultProject": "angular-ten-poc",
+  "cli": {
+    "analytics": "4026b689-01f6-448c-9301-98e025bfc638"
+  }
 }
